@@ -1,3 +1,3 @@
-I know JS, C#, GDScript, Python 
+I know some Web, Node.js, Python
 
 More in my Bento
